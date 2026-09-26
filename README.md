@@ -1,5 +1,5 @@
 # Ethan Thang
 
-Computer Science student at Indiana University Bloomington.
+Computer Science student at Indiana University Bloomington interested in software, technology, and business.
 
-Interested in software, technology, and the intersection of technology and business.
+Currently building my technical skills through projects and hands-on experience.
